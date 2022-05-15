@@ -10,7 +10,7 @@
 ## Description
 * to take notes
 ## Installation
-* Nop
+* npm express
 ## Usage
 * to help some one need to take and edit notes
 ## Test
