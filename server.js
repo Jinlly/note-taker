@@ -1,7 +1,7 @@
 // set up const for express 
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3003;
 
 //set up consts for node 
 const fs = require('fs');
