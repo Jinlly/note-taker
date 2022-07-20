@@ -1,5 +1,5 @@
 # Note Taker
-deplyoed at:https://dashboard.heroku.com/apps/notetaker-jinlly
+
 #### Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -10,7 +10,7 @@ deplyoed at:https://dashboard.heroku.com/apps/notetaker-jinlly
 ## Description
 * to take notes
 ## Installation
-* npm express
+* Nop
 ## Usage
 * to help some one need to take and edit notes
 ## Test
